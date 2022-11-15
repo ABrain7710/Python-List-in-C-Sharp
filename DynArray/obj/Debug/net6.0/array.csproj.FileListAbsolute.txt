@@ -1,0 +1,15 @@
+/Users/andrew_brain/Documents/school/c_sharp/array/obj/Debug/net6.0/array.csproj.AssemblyReference.cache
+/Users/andrew_brain/Documents/school/c_sharp/array/obj/Debug/net6.0/array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrew_brain/Documents/school/c_sharp/array/obj/Debug/net6.0/array.AssemblyInfoInputs.cache
+/Users/andrew_brain/Documents/school/c_sharp/array/obj/Debug/net6.0/array.AssemblyInfo.cs
+/Users/andrew_brain/Documents/school/c_sharp/array/obj/Debug/net6.0/array.csproj.CoreCompileInputs.cache
+/Users/andrew_brain/Documents/school/c_sharp/array/bin/Debug/net6.0/array
+/Users/andrew_brain/Documents/school/c_sharp/array/bin/Debug/net6.0/array.deps.json
+/Users/andrew_brain/Documents/school/c_sharp/array/bin/Debug/net6.0/array.runtimeconfig.json
+/Users/andrew_brain/Documents/school/c_sharp/array/bin/Debug/net6.0/array.dll
+/Users/andrew_brain/Documents/school/c_sharp/array/bin/Debug/net6.0/array.pdb
+/Users/andrew_brain/Documents/school/c_sharp/array/obj/Debug/net6.0/array.dll
+/Users/andrew_brain/Documents/school/c_sharp/array/obj/Debug/net6.0/refint/array.dll
+/Users/andrew_brain/Documents/school/c_sharp/array/obj/Debug/net6.0/array.pdb
+/Users/andrew_brain/Documents/school/c_sharp/array/obj/Debug/net6.0/array.genruntimeconfig.cache
+/Users/andrew_brain/Documents/school/c_sharp/array/obj/Debug/net6.0/ref/array.dll

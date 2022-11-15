@@ -279,6 +279,9 @@ namespace DynArrayImplementation
         }
 
         public int Count(T item){
+            if(item == null){
+                return 0;
+            }
 
             int count = 0;
             for(int i = 0; i <= this.maxUserIndex; i++){
@@ -364,41 +367,7 @@ namespace DynArrayImplementation
     {
         static int Main(string[] args)
         {
-
-            int[] nums = {0, 1};
-            List<int> data = new List<int>(nums);
-            DynArray<int> dynArray = new DynArray<int>(data);
-            // Console.WriteLine(dynArray);
-
-            // for(int i = 2; i < 4; i++){
-            //     dynArray.Append(i);
-            //     Console.WriteLine(dynArray);
-            // }
-
-
-            // Console.WriteLine("Item found at index: " + dynArray.index(2));
-
-            // int[] moreNums = {4, 5, 6, 7, 8};
-            // for(int i = 0; i < 2; i++){
-            //     dynArray.Prepend(moreNums);
-            //     Console.WriteLine(dynArray);
-            // }
-
-            
-
-            
-
-            // dynArray.Set(0, 4);
-            // Console.WriteLine(dynArray);
-
-            // Console.WriteLine("Index of item found: " + dynArray.index(2));
-
-            // for (int i = -1; i > -4; i--)
-            // {
-            //     dynArray.Prepend(i);
-            //     Console.WriteLine(dynArray);
-            // }
-
+            // here for running quick tests
             return 0;
         }
 
